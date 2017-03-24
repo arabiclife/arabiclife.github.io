@@ -1,0 +1,76 @@
+html {
+    min-height: 100%
+}
+ul {
+  text-align: center;
+}
+li {
+  display: inline-block;
+  margin-left: 25px;
+  color: white;
+  text-align: center
+}
+li a { color: white;
+}
+
+h1 {
+  text-decoration: underline;
+  color:red;
+  text-align:Center;
+  clear: both;
+}
+a {
+  font-size: 2em;
+  transition: all .3s ease-out;
+  color:red;
+}
+
+a:hover {
+  transform: translate(0, -5px);
+}
+h2 { 
+  
+
+  color:green;
+  text-align:center;
+}
+  
+  
+#habibi {
+ display:none; 
+}
+
+  
+  
+h3 {
+  font-weight: bold;
+  color:white;
+  text-align: center
+  
+}
+
+body {
+
+background:linear-gradient(black,grey);
+  
+}
+div {
+  text-align: center;
+}
+img {
+  width: 350px;
+}
+
+
+
+iframe {
+  width: 100%;
+  height: 100%;
+  margin-top:30px;
+}
+#habibi{
+  display: none;
+}
+  
+  
+
